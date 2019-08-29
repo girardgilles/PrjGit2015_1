@@ -24,5 +24,10 @@ namespace PrjGit2015_1
            MessageBox.Show("Everybody");
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

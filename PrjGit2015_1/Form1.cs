@@ -16,5 +16,10 @@ namespace PrjGit2015_1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("gffghghfhgf");
+        }
     }
 }
